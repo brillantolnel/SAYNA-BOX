@@ -1,0 +1,26 @@
+
+.box{
+    
+    
+    width: 200px;
+    background-color: red;
+    background-size: 60px 10em 50em 10px ;
+    padding: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    border-radius: 30px;
+    border: 5px rgb(170, 3, 53) solid;
+    border-top-left-radius: 30px; 
+    border-style: inset; 
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+    
+}
+#box{
+    box-shadow: 10px 10px 10px black;
+}
+
+
+
